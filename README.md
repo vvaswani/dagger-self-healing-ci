@@ -15,6 +15,7 @@ The following secrets must be configured in the GitHub repository:
 - Open a PR in the repository with a deliberate bug
 - When CI tests fail, the agent triggers and investigate
 - The agent writes a comment on the original PR with analysis/solution, and opens a sub-PR with a code fix
+- Sample PR and fix: https://github.com/vikram-dagger/fastapi-sample-app/pull/134
 
 ### Run tests manually
 
